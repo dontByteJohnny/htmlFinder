@@ -9,8 +9,8 @@ If the element is found a new file will be created with the xpath to the element
 
 To run this application:
 
-1- Download htmlkeyfinder.jar
-2- Open command line and go to the path where you downloaded the previous .jar
-3- Run it as: Java -jar htmlkeyfinder.jar <path to the .html> <keyword>
+1- Download htmlkeyfinder.jar  
+2- Open command line and go to the path where you downloaded the previous .jar  
+3- Run it as: Java -jar htmlkeyfinder.jar <path to the .html> <keyword>  
   example: java -jar ae-backend-xml-java-snippets.main.jar  C:/Java/apimanager/sample-0-origin.html btn btn-success
   
